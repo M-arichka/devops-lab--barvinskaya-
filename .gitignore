@@ -1,5 +1,4 @@
 echo "# Operating system files" > .gitignore
 echo "Thumbs.db" >> .gitignore      # для Windows
 echo "desktop.ini" >> .gitignore     # для Windows
-echo ".DS_Store" >> .gitignore       # для macOS
-echo "*~" >> .gitignore              # для Linux
+
