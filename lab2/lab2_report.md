@@ -8,4 +8,4 @@ Lab: Lab2\
 Date of create: 09.03.2026\
 Date of finished:\
 
-№Ход работы
+# Ход работы
