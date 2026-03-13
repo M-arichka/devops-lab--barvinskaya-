@@ -9,3 +9,4 @@ Date of create: 09.03.2026\
 Date of finished:\
 
 # Ход работы
+1) Создала аккаунт на Docker Hub и репозиторий: \
