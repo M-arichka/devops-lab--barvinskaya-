@@ -23,9 +23,11 @@ Date of finished:\
 7) Залогинилась под админом в графане, добавила источник данных prometheus: \
 фото 6 \
 8) В prometheus проверила доступность node-exporter: \
-фото 7
-9)Добавила метрики node_cpu_seconds_total, node_memory_Active_bytes, node_memory_MemAvailable_bytes, node_disk_io_now
-
+фото 7 \
+9) Сздала дашборд, добавила метрику node_cpu_seconds_total, сохранила: \
+фото 8 \
+11) Добавила метрики node_memory_Active_bytes, node_load1, node_memory_MemAvailable_bytes, node_disk_io_now:  \
+фото 9-13
 
 
 Трудности: долго мучилась с заапуском Prometheus. Через Git Bash не получалось, разбиралась с логами: все время выдавал "Error loading config". Получилось запустить через командную строку (cmd) 
