@@ -26,7 +26,7 @@ Date of finished:\
 фото 7 \
 9) Сздала дашборд, добавила метрику node_cpu_seconds_total, сохранила: \
 фото 8 \
-11) Добавила метрики node_memory_Active_bytes, node_load1, node_memory_MemAvailable_bytes, node_disk_io_now:  \
+11) Добавила метрики node_memory_MemTotal_bytes, node_load1, node_disk_io_now:  \
 фото 9-13
 
 
