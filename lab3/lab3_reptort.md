@@ -24,7 +24,7 @@ Date of finished:\
 фото 6 \
 8) В prometheus проверила доступность node-exporter: \
 фото 7
-
+9)Добавила метрики node_cpu_seconds_total, node_memory_Active_bytes, node_memory_MemAvailable_bytes, node_disk_io_now
 
 
 
