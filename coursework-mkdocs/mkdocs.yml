@@ -1,0 +1,58 @@
+site_name: Мария Барвинская
+site_description: Персональный сайт — Биотехнолог, создатель бренда натуральной персонвльной косметики БАРВИНSKY, 
+site_author: Мария Барвинская
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: purple
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Перейти на темную тему
+    - scheme: slate
+      primary: purple
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Перейти на светлую тему
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/account-circle
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+markdown_extensions:
+  - attr_list
+
+plugins:
+  - search:
+      lang: ru
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Barvinsky_cosmetic
+      name: Telegram - канал
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/m_ari_chka
+      name: Написать в Telegram
+    - icon: fontawesome/solid/envelope
+      link: mailto:barvinsky.science@gmail.com
+      name: Электронная почта
+
+copyright: © 2026 Барвинская Мария
